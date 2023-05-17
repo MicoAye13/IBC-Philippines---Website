@@ -1,0 +1,24 @@
+body{
+    font-family:"Montserrat", sans-serif;
+}
+
+img{
+    width: 250px;
+    height:auto;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    font-weight: 100;
+}
+
+.line{
+position: absolute;
+width: 1400px;
+height: 0px;
+left: 0px;
+top: 80px;
+
+border: 1.5px solid #525CAC;
+}
