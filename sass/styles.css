@@ -12,7 +12,7 @@ body{
     display:block;
 }
 
-/* .rect-14{
+/* .rect-{
     position: absolute;
     width: 1080px;
     height: 720px;
@@ -208,9 +208,10 @@ body{
 }
 
 .btn-5:hover{
-    color:gray;
-    background:#6633CC;
+  color:green;
+  background:#FFFF01;  
 }
+
 
 .squares{
     width: 450px;
@@ -263,12 +264,7 @@ body{
     align-items: center;
 }
 
-/* .rectangle{
-    position: absolute;
-    width: 1300px;
-    height: 300px;
-    left: 1px;
-
-    background: linear-gradient(180deg, #6633CC 43.75%, #DF175A 98.44%);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-} */
+.cnt{
+  background: linear-gradient(180deg, #6633CC 43.75%, #DF175A 98.44%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
