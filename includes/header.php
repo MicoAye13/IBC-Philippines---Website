@@ -11,8 +11,8 @@
 </head>
 <body>
 <!-- Navbar -->
+<header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
         <img src="images/NEW-IBC-LOGO.png" alt="" class="img">
@@ -53,3 +53,4 @@
       </div>
     </div>
   </nav>
+  </header>
